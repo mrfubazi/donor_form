@@ -1,0 +1,23 @@
+<?xml version= "1.0"  encoding="UTF-8" ?>
+
+<language>
+    <id>1</id>
+    <name>English</name>
+    <keyword>en</keyword>
+    <imagename>en.jpg</imagename>
+    <id>2</id>
+    <name>French</name>
+    <keyword>fr</keyword>
+   <imagename>fr.jpg</imagename>
+    <id>3</id>
+    <name>Dutch</name>
+    <keyword>du</keyword>
+    <imagename>du.jpg</imagename>
+    <id>4</id>
+    <name>Chinese</name>
+    <keyword>ch</keyword>
+    <imagename>ch.jpg</imagename>
+     
+</language>
+ 	
+         

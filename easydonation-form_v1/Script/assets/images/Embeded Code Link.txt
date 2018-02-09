@@ -1,0 +1,13 @@
+VISA - https://www.iconfinder.com/icons/206684/card_method_payment_visa_icon#size=48
+
+MASTERCARD - https://www.iconfinder.com/icons/206680/card_master_method_payment_icon#size=48
+
+PAYPAL - https://www.iconfinder.com/icons/206675/method_payment_paypal_icon#size=48
+
+AMERICAN EXPRESS - https://www.iconfinder.com/icons/206682/american_card_express_method_payment_icon#size=48
+
+DISCOVER - https://www.iconfinder.com/icons/206686/card_discover_method_network_payment_icon#size=48
+
+MAESTRO - https://www.iconfinder.com/icons/358103/card_maestro_payment_icon#size=48
+
+JCB - https://www.iconfinder.com/icons/358102/card_jcb_payment_icon#size=48

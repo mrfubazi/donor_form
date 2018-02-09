@@ -1,0 +1,12 @@
+.donate-heading,.money-donate,.pay-mod span,.personal-detail input[type="text"],.btn, .btn-group input,.chzn-container-single .chzn-single,
+#creditCardNumber,.cvn input,.recurring-btn,.header-transition{
+	behavior: url(PIE.htc);
+	position:relative;	
+}
+#donation-amount{
+	height:40px;
+}
+.personal-detail input[type="text"],.personal-detail textarea{
+	font-size:16px;  font-weight:normal;
+	  font-family: "latolight"
+}

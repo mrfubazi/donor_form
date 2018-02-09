@@ -1,0 +1,108 @@
+<?xml version= "1.0"  encoding="UTF-8" ?>
+
+<currency>
+    <value>INR</value>
+    <name>INR - Indian Rupee</name>
+    <sign>₹</sign>
+    <value>USD</value>
+    <name>USD - U.S. Dollars</name>
+    <sign>$</sign>
+    <value>AUD</value>
+    <name>AUD - Australian Dollars</name>
+    <sign>$</sign>
+    <value>BRL</value>
+    <name>BRL - Brazilian Reais</name>
+    <sign>R$</sign>
+    <value>GBP</value>
+    <name>GBP - British Pounds</name>
+    <sign>£</sign>
+    <value>HKD</value>
+    <name>HKD - Hong Kong Dollars</name>
+    <sign>HK$</sign>
+    <value>HUF</value>
+    <name>HUF - Hungarian Forints</name>
+    <sign>Ft</sign>
+    <value>ILS</value>
+    <name>ILS - Israeli New Shekels</name>
+    <sign>&#8362;</sign>
+    <value>JPY</value>
+    <name>JPY - Japanese Yen</name>
+    <sign>¥</sign>
+    <value>MYR</value>
+    <name>MYR - Malaysian Ringgit</name>
+    <sign>RM</sign>
+    <value>MXN</value>
+    <name>MXN - Mexican Pesos</name>
+    <sign>$</sign>
+    <value>TWD</value>
+    <name>TWD - New Taiwan Dollars</name>
+    <sign>NT$</sign>
+    <value>NZD</value>
+    <name>NZD - New Zealand Dollars</name>
+    <sign>NZ$</sign>
+    <value>NOK</value>
+    <name>NOK - Norwegian Kroner</name>
+    <sign>kr</sign>
+    <value>PHP</value>
+    <name>PHP - Philippine Pesos</name>
+    <sign>₱</sign>
+    <value>PLN</value>
+    <name>PLN - Polish Zlotys</name>
+    <sign>zł</sign>
+    <value>RUB</value>
+    <name>RUB - Russian Rubles</name>
+    <sign>R</sign>
+    <value>SGD</value>
+    <name>SGD - Singapore Dollars</name>
+    <sign>S$</sign>
+
+    <value>SEK</value>
+    <name>SEK - Swedish Kronor</name>
+    <sign>kr</sign>
+
+    <value>CHF</value>
+    <name>CHF - Swiss Francs</name>
+    <sign>Fr.</sign>
+
+    <value>THB</value>
+    <name>THB - Thai Baht</name>
+    <sign>฿</sign>
+
+    <value>TRY</value>
+    <name>TRY - Turkish Liras</name>
+    <sign>YTL</sign>
+
+</currency>
+
+
+
+
+
+                               
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                               
+                                
+                                
+                               
+                                
+                                
+                                
+                                
+                               
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,62 @@
+.black_overlay{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); z-index:1001; }
+.white_content { position: absolute; top: 50%; left: 0; right:0; margin:0 auto; width: 50%; background:#ECC731; transform: translateY(-50%); -moz-transform: translateY(-50%); -webkit-transform: translateY(-50%); -o-transform: translateY(-50%); -ms-transform: translateY(-50%); overflow: hidden; padding:0 20px 20px;  }
+.white_content form{ background: #fff; }
+.installation-message{ font-size: 50px; }
+fieldset{ margin-bottom: 0; }
+
+
+.box{ width: 100%; height:100%; padding: 0 20px; position: absolute; left: 0; top: 0; background: #fff; transition: all 1s linear 0s; }
+.box.active{ left: 0; display: block; }
+.box.box-1{  }
+.box.box-2{ left: 100%; }
+.box.box-3{ left: 100%; }
+.box.box-4{ left: 100%; }
+.box.box-5{ left: 100%; }
+.box.box-6{ left: 100%; }
+
+.box.box-2.inactive , .box.box-3.inactive , .box.box-4.inactive , .box.box-5.inactive { left: 150%; display: none; }
+
+
+
+.box-content{ position: relative; overflow: hidden; min-height: 300px; }
+.white_content h2{ font-weight: 600; margin-bottom: 10px; text-align: center; background: #ecc731; color: #4d4641; padding:10px } 
+.white_content h3{ font-weight: 600; margin-bottom: 10px; text-align: center }
+.white_content .row{ float: left; width: 100%; margin-bottom: 5px; }
+.white_content .row label{ float: left; padding: 5px 20px 5px 0; width: 20%; }
+.white_content .row input[type=text]{ float: left; border: 1px solid #ccc; background: none; padding: 5px 10px; width: 80%; font-family: 'latoregular'; font-size: 16px; color: #4d4641; }
+
+.btn-box{ float:left; width: 100%; text-align: center; margin: 10px 0 20px; }
+.btn-box input[type=button]{ display: inline-block; border: 1px solid #ecc731; background: #ecc731; border-radius: 5px; padding: 5px 10px; margin:0 5px; color: #4d4641; letter-spacing: 1px; cursor: pointer; font-family: 'latoregular'; text-transform: uppercase; }
+.btn-box input[type=button]:hover{ background: #fff ;   }
+
+.white_content .payment-gateway .row label{ width: 100%; padding: 3px 0; }
+.white_content .language .row label{ width: auto;  }
+
+.white_content #tech_title .ddlabel{ color: #4d4641; font-size: 16px; left: 0; top: 0; }
+.white_content .dd .ddTitle .ddTitleText{ width: 150px; padding: 5px; border: 1px solid #4d4641; }
+.white_content .dd .ddTitle .ddTitleText::after{ width: 15px; height: 12px; background: url(../images/arrow-down.png) no-repeat 0 0; content: ""; left: auto; right: -45px; top: 8px; }
+.white_content .dd .ddTitle .ddTitleText img { top: 7px; right: 5px; }
+.white_content #tech_child{ left: 0 !important; top: 40px !important; }
+
+.white_content .chzn-drop{ width: 302px !important; top: 48px !important;   }
+.white_content #currency_chzn .chzn-single{ height: 48px !important; border-bottom: 1px solid #aaaaaa !important; }
+.white_content .chzn-container .chzn-results{ max-height: 200px !important; }
+.white_content .payment-gateway .row .paypal-mode label{ float: left; width: 50%; font-size: 16px; }
+.white_content .payment-gateway .row .paypal-mode label input{ margin-top: 0; }
+.paypal-mode{ float: left; width: 100%; padding: 10px 20px; }
+.payment-info p{ margin-bottom: 10px; }
+.payment-info p.last{ text-decoration: underline; }
+.payment-info h1{ margin-bottom: 10px; color: #ecc731 ; font-weight: bold; }
+
+.loader-box { height: 100%; left: 0; position: absolute; top: 0; width: 100%; }
+.loader-box img { left: 50%; margin: -75px 0 0 -75px; position: absolute; top: 50%; width: 150px; }
+
+@media screen and (max-width: 767px) {
+
+.box-content{ min-height: 270px; }
+.white_content{ width: 90%; }
+.white_content h2 , .white_content h3{ font-size: 15px; }
+.white_content .row label , .white_content .row input[type="text"] { width: 100%; }
+
+}
+
